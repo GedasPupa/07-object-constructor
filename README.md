@@ -5,12 +5,12 @@ _Educational project_
 
 ### 2. Sukurkite 20 objektų masyvą, kuriame yra objektai Studentai. Objektą sukurkite pasinaudodami konstruktoriumi.
 - Studentas konstruktorius turi sukurti tokį objektą:
-- - id - skaičius
-- - vardas - tekstas
-- - pavarde - tekstas
-- - pazymys - skaičius
-- - lankomumamas - masyvas, 20 elementų, užpildytas x ir n reikšmėmis.
-- - data - šios dienos data.
+  - id - skaičius
+  - vardas - tekstas
+  - pavarde - tekstas
+  - pazymys - skaičius
+  - lankomumamas - masyvas, 20 elementų, užpildytas x ir n reikšmėmis.
+  - data - šios dienos data.
 
 ### 3. Studentų objektų masyvą patalpikinti į objektą Klase.
 
